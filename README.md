@@ -3,7 +3,7 @@ SimpleStorage Smart Contract
 This is a basic implementation of a Solidity smart contract named SimpleStorage. The contract includes a state variable favNumber and a function store to update this variable.
 Smart Contract Details
 
-    Solidity Version: ^0.8.18 
+    Solidity Version: ^0.8.18  
     License: MIT
 
 State Variable
